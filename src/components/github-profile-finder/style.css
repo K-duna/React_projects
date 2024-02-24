@@ -1,0 +1,45 @@
+.github-profile-container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: bisque;
+}
+
+.input-wrapper button {
+    margin: 10px;
+    border: none;
+}
+
+.input-wrapper {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.input-wrapper input {
+    padding: 12px;
+    font-size: 14px;
+    border-radius: 8px;
+    border: none;
+}
+
+.user {
+    padding: 20px;
+}
+
+.avatar {
+    height: 250px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+}
+
+.name-container {
+    margin-top: 20px;
+}
+
+.name-container p {
+    margin-top: 20px;
+} 
